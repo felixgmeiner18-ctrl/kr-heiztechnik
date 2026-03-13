@@ -1,0 +1,9 @@
+packages:
+  "framer-motion": "For premium scroll animations, page transitions, and interactive micro-interactions."
+  "react-helmet-async": "For injecting SEO metadata (titles, descriptions, JSON-LD) into the document head."
+
+notes:
+  - Static frontend-only application for KR Heiztechnik.
+  - No backend or API calls required.
+  - All data is hardcoded according to the prompt specifications.
+  - All images are loaded directly from the public/images directory via the base URL.
